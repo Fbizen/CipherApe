@@ -1,0 +1,17 @@
+# Ignore Unity auto-generated folders
+/Library/
+/Temp/
+/Logs/
+/ProjectSettings/
+/Packages/
+
+# Ignore Build artifacts
+/Build/
+/Builds/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS files over 100MB
+Project Cipher Ape/Library/PackageCache/
