@@ -4,7 +4,7 @@
 /Logs/
 /ProjectSettings/
 /Packages/
-
+/AiAssets/
 # Ignore Build artifacts
 /Build/
 /Builds/
